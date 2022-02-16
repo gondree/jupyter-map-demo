@@ -27,6 +27,6 @@ dependencies:
   - traittypes==0.2.1
   - invoke=1.2
   - geojson==2.5.0
-  - gmaps==0.9.0
+#  - gmaps==0.9.0
   - jsonschema==4.4.0
 
